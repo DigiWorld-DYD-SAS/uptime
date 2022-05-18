@@ -1,5 +1,5 @@
 # Change these first
-owner: DilanAriza # Your GitHub organization or username, where this repository lives
+owner: DigiWorld-DYD-SAS # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -13,7 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 assignees:
-  - DilanAriza
+  - DigiWorld-DYD-SAS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
